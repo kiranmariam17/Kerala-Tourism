@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    margin: 120px 100px 100px 100px;
+    color: white;
+}
+
+.heading{
+    color: white; 
+    font-family: quintessential;
+}
+
